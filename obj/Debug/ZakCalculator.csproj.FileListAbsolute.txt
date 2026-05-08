@@ -1,0 +1,21 @@
+D:\Files\Collage\Database Design\C#\ZakCalculator\bin\Debug\ZakCalculator.exe.config
+D:\Files\Collage\Database Design\C#\ZakCalculator\bin\Debug\ZakCalculator.exe
+D:\Files\Collage\Database Design\C#\ZakCalculator\bin\Debug\ZakCalculator.pdb
+D:\Files\Collage\Database Design\C#\ZakCalculator\obj\Debug\ZakCalculator.csproj.AssemblyReference.cache
+D:\Files\Collage\Database Design\C#\ZakCalculator\obj\Debug\ZakCalculator.csproj.SuggestedBindingRedirects.cache
+D:\Files\Collage\Database Design\C#\ZakCalculator\obj\Debug\ZakCalculator.Properties.Resources.resources
+D:\Files\Collage\Database Design\C#\ZakCalculator\obj\Debug\ZakCalculator.csproj.GenerateResource.cache
+D:\Files\Collage\Database Design\C#\ZakCalculator\obj\Debug\ZakCalculator.csproj.CoreCompileInputs.cache
+D:\Files\Collage\Database Design\C#\ZakCalculator\obj\Debug\ZakCalculator.exe
+D:\Files\Collage\Database Design\C#\ZakCalculator\obj\Debug\ZakCalculator.pdb
+D:\Files\Collage\Database Design\C#\ZakCalculator\obj\Debug\ZakCalculator.Calculator.resources
+D:\Files\Programming\C#\ZakCalculator\obj\Debug\ZakCalculator.csproj.AssemblyReference.cache
+D:\Files\Programming\C#\ZakCalculator\obj\Debug\ZakCalculator.Calculator.resources
+D:\Files\Programming\C#\ZakCalculator\obj\Debug\ZakCalculator.Properties.Resources.resources
+D:\Files\Programming\C#\ZakCalculator\obj\Debug\ZakCalculator.csproj.GenerateResource.cache
+D:\Files\Programming\C#\ZakCalculator\obj\Debug\ZakCalculator.csproj.CoreCompileInputs.cache
+D:\Files\Programming\C#\ZakCalculator\obj\Debug\ZakCalculator.exe
+D:\Files\Programming\C#\ZakCalculator\obj\Debug\ZakCalculator.pdb
+D:\Files\Programming\C#\ZakCalculator\bin\Debug\ZakCalculator.exe.config
+D:\Files\Programming\C#\ZakCalculator\bin\Debug\ZakCalculator.exe
+D:\Files\Programming\C#\ZakCalculator\bin\Debug\ZakCalculator.pdb
